@@ -1,1 +1,1 @@
-I have got a basic idea of staging area,git commit and the significance of git commit messages
+chapter 2
